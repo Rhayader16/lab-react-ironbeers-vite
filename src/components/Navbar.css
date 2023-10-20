@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  align-items: center;
+  background-color: #32a4c9;
+  margin-bottom: 1vh;
+  justify-content: center;
+}
+
+nav img {
+  width: 4vw;
+  padding: 2px;
+}
